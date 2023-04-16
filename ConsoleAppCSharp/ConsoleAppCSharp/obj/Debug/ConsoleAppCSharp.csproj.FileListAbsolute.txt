@@ -1,0 +1,8 @@
+C:\Users\Arildo\Documents\GITHUB\CSharpIntegrationJenkinsTest\ConsoleAppCSharp\ConsoleAppCSharp\bin\Debug\ConsoleAppCSharp.exe.config
+C:\Users\Arildo\Documents\GITHUB\CSharpIntegrationJenkinsTest\ConsoleAppCSharp\ConsoleAppCSharp\bin\Debug\ConsoleAppCSharp.exe
+C:\Users\Arildo\Documents\GITHUB\CSharpIntegrationJenkinsTest\ConsoleAppCSharp\ConsoleAppCSharp\bin\Debug\ConsoleAppCSharp.pdb
+C:\Users\Arildo\Documents\GITHUB\CSharpIntegrationJenkinsTest\ConsoleAppCSharp\ConsoleAppCSharp\obj\Debug\ConsoleAppCSharp.csproj.AssemblyReference.cache
+C:\Users\Arildo\Documents\GITHUB\CSharpIntegrationJenkinsTest\ConsoleAppCSharp\ConsoleAppCSharp\obj\Debug\ConsoleAppCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arildo\Documents\GITHUB\CSharpIntegrationJenkinsTest\ConsoleAppCSharp\ConsoleAppCSharp\obj\Debug\ConsoleAppCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Arildo\Documents\GITHUB\CSharpIntegrationJenkinsTest\ConsoleAppCSharp\ConsoleAppCSharp\obj\Debug\ConsoleAppCSharp.exe
+C:\Users\Arildo\Documents\GITHUB\CSharpIntegrationJenkinsTest\ConsoleAppCSharp\ConsoleAppCSharp\obj\Debug\ConsoleAppCSharp.pdb
