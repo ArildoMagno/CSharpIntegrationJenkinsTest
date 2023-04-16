@@ -6,7 +6,7 @@ namespace ConsoleAppCSharp
     {
         static void Main()
         {
-            Console.WriteLine("Hello World! Teste");
+            Console.WriteLine("Hello World! Teste Mac");
         }
     }
 }
